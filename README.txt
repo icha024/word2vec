@@ -1,3 +1,8 @@
+This is a mirror of the Google project: https://code.google.com/archive/p/word2vec/
+
+========================================================================================================
+
+------------------------------------------------------
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
